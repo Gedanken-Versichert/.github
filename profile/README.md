@@ -5,7 +5,7 @@ Gedanken Versichert ist ein kleines Team aus Europa. Wir versichern Gedanken in 
 Wir laden unsere Gedanken auf unsere [Webseite](https://gedankenversichert.com) hoch.
 
 ### Was benutzen wir?
-Wir benutzen diese Programmiersprache und Programme:
+Wir benutzen diese Programmiersprachen und Programme:
 - Python, TypeScript
 - Visual Studio Code
 
