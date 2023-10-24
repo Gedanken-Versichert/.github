@@ -14,7 +14,7 @@ Wir benutzen diese Programmiersprachen und Programme:
 ## Welcome to Gedanken Versichert
 
 ### What does Gedanken Versichert mean?
-Gedanken Versichert directly translates to "thoughts assured". The abbreviation - GV - is pronounced as [gf] using standard IPA.
+Gedanken Versichert directly translates to "thoughts assured".
 
 ### Who are we?
 Gedanken Versichert is a small team from Europe. We assure thoughts in mathematics, physics and general programming.
